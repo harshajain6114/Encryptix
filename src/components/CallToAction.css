@@ -1,0 +1,30 @@
+.call-to-action {
+    padding: 50px;
+    background-color:black;
+    color: white;
+  }
+  
+  .call-to-action h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .call-to-action p {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    color: #0066ff;
+    background: white;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background: #e0e0e0;
+  }
+  
